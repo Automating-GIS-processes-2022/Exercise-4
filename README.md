@@ -1,13 +1,15 @@
-# Exercise 4: Geocode and spatial joins
-
-This week we will practice how to translate addresses into coordinates,
-and how to join two vector layers based on their geometries.
+# Exercise 4: Data classification and aggregation
 
 
-- **Exercise 3 is due by Friday, 25 November 2022, end of day**
+This week we will practice how to **join different data sets**, 
+**classify vector data**, and **find the closest shopping centre** to
+all places in the Helsinki region.
+
+
+- **Exercise 4 is due by Friday, 2 December 2022, end of day**
 
 - Don’t forget to check out the [hints for this week’s
-exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-3/exercise-3.html#hints)
+exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-4/exercise-4.html#hints)
 
 - Scores on this exercise are out of **20 points**.
 
@@ -41,6 +43,5 @@ check whether your code works.
 
 ## Start working
 
- - [Problem 1 (5 points)](Exercise-3-problem-1.ipynb)
- - [Problem 2 (7 points)](Exercise-3-problem-2.ipynb)
- - [Problem 3 (8 points)](Exercise-3-problem-3.ipynb)
+ - [Problem 1 (10 points)](Exercise-4-problem-1.ipynb)
+ - [Problem 2 (10 points)](Exercise-4-problem-2.ipynb)
