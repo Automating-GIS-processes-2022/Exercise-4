@@ -36,7 +36,7 @@ should help you test your code while you proceed.
 #### *No* immediate feedback
 
 This week’s exercise is more complex, and there often exists more than one way
-to solve a problem. For this reason, exercise 3 is *not graded automatically*.
+to solve a problem. For this reason, exercise 4 is *not graded automatically*.
 Use the cells marked `# NON-EDITABLE CODE CELL FOR TESTING YOUR SOLUTION` to
 check whether your code works.
 
